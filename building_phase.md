@@ -12,4 +12,6 @@ We purchased the pressure-treated (PT) wood thinking that it will have a good ch
 
 Anyhow, the construction begun on Marchh 14, 2021.
 
+### Cutting the board into components
 <img src="images/01_building3.jpg" width="350">
+<img src="images/01_building4.jpg" width="350">

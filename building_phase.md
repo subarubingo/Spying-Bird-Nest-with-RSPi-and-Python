@@ -45,7 +45,14 @@ A small portion of the code to control the IR LED was taken from the tutorial ma
 ### Putting all together
 
 Finally, we put all the components to the bird nest box. This is how it looks like (less the plastic cover to be installed for weathering).
+
 <img src="images/04_setup3.jpg" width="350">
 
+We went "creative" to avoid soldering. A small breadboard and masking tapes were used to wire the electronic components.
 
+<img src="images/04_setup2.jpg" width="350">
+
+Jump wires were taped firmily to the structure so that the connection will not easily come off from both the RPi and the breadboard.
+
+<img src="images/04_setup1.jpg" width="350">
 

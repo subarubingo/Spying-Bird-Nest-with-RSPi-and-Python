@@ -31,3 +31,21 @@ We also used the motion sensor unit we bought for the IoT Workshop (as part of a
 
 <img src="images/03_Wiring.jpg" width="350"> <img src="images/WiringDiagram.jpg" width="350">
 
+We referenced "The Official Raspberry Pi Camera Guide" by Raspberry Pi Press (ISBN 978-1-912047-52-9) Chapter 14 "Install a bird box camera" for wiring IR LED to RPi.
+
+### (5) Python coding
+
+We wrote the Python code mostly by combining the relevant codes from the IoT Workshop. Features we included in the code were:
+ - Motion sensor triggers the camera and IR LED.
+ - NoIR camera takes a 30-second video.
+ - Upload the video file to Kintone App.
+ - Remove video files temporarily stored on RPi.
+A small portion of the code to control the IR LED was taken from the tutorial material that came with the starter kit.
+
+### Putting all together
+
+Finally, we put all the components to the bird nest box. This is how it looks like (less the plastic cover to be installed for weathering).
+<img src="images/04_setup3.jpg" width="350">
+
+
+

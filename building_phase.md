@@ -31,6 +31,7 @@ We bought:
  - GPIO Hammer Headers
  - Camera board case
  - IR LED bulbs
+
 We also used the motion sensor unit we bought for the IoT Workshop (as part of a starter kit). The picture below shows how these components were wired during our experiment.
 
 <img src="images/03_Wiring.jpg" width="350"> <img src="images/WiringDiagram.jpg" width="350">

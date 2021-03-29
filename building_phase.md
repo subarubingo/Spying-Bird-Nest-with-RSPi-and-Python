@@ -44,6 +44,7 @@ We wrote the Python code mostly by combining the relevant codes from the IoT Wor
  - NoIR camera takes a 30-second video.
  - Upload the video file to Kintone App.
  - Remove video files temporarily stored on RPi.
+
 A small portion of the code to control the IR LED was taken from the tutorial material that came with the starter kit.
 
 ### Putting all together

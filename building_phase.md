@@ -12,5 +12,10 @@ We purchased the pressure-treated (PT) wood thinking that it will have a good ch
 
 Anyhow, the construction begun on Marchh 14, 2021.
 
-### Cutting the board into components
+### (1) Cutting the board into parts
 <img src="images/01_building3.jpg" width="350"> <img src="images/01_building4.jpg" width="350">
+
+### (2) Sanding the surfaces
+We used the 2-inches diameter power saw to make the entrance. Need to sand the interior smooth so that birds don't get stuck!
+<img src="images/01_building1.jpg" width="350"> <img src="images/01_building2.jpg" width="350">
+

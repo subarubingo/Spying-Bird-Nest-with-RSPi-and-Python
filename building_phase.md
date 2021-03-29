@@ -31,7 +31,7 @@ We also used the motion sensor unit we bought for the IoT Workshop (as part of a
 
 <img src="images/03_Wiring.jpg" width="350"> <img src="images/WiringDiagram.jpg" width="350">
 
-We referenced "The Official Raspberry Pi Camera Guide" by Raspberry Pi Press (ISBN 978-1-912047-52-9) Chapter 14 "Install a bird box camera" for wiring IR LED to RPi.
+We referenced "The Official Raspberry Pi Camera Guide" by Raspberry Pi Press (ISBN 978-1-912047-52-9) Chapter 14 "Install a bird box camera" for wiring IR LED to RPi. We also adjusted the camera focus.
 
 ### (5) Python coding
 
@@ -56,3 +56,6 @@ Jump wires were taped firmily to the structure so that the connection will not e
 
 <img src="images/04_setup1.jpg" width="350">
 
+Once the bird nest box is installed outside, the power cord will be connected and the RPi will be controlled via VCN.
+
+And we will wait hoping that someone (or rather "somebird") will like the box and actually nest in it.

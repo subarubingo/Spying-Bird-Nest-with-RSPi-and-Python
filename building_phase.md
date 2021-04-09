@@ -62,6 +62,8 @@ Jump wires were taped firmily to the structure so that the connection will not e
 
 <img src="images/04_setup3.jpg" width="350">
 
-Once the bird nest box is installed outside, the power cord will be connected and the RPi will be controlled via VCN.
+The box was installed just outside of the house and near the shrubs. This location is just outside of the room that has a wifi router.
+
+<img src="images/05_Installed.jpg" width="350">
 
 And we will wait hoping that someone (or rather "somebird") will like the box and actually nest in it.
